@@ -20,6 +20,11 @@ Paquetes y librerias necesarias para instalar laravel con docker
             docker-compose build    
             docker-compose up -d
     Descargar el proyecto de laravel en la carpeta src
+    
+    Una vez inicializado el proyecto y si se necestia de artisan o composer ejecutar
+    
+    docker-compose exec php <comando de composer>
+    docker-compose exec php <comando de php artisan>
 
 ```
 
