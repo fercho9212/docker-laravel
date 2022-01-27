@@ -1,4 +1,4 @@
 src/*
 !src/.gitkepp
-mssql/*
-!mssql/.gitkeep
+mysql/*
+mysql/.gitkeep
