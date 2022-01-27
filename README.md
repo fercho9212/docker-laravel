@@ -26,6 +26,10 @@ Paquetes y librerias necesarias para instalar laravel con docker
     docker-compose exec php <comando de composer>
     docker-compose exec php <comando de php artisan>
 
+    npm
+    Para ejecutar comando de npm 
+    docker-compose run --rm npm install
+
 ```
 
 _
